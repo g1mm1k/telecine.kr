@@ -7,9 +7,9 @@
 
 .date {
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   justify-content: center;
-  height: 200vh;
+  height: 10vh;
 }
 
 h1 {
